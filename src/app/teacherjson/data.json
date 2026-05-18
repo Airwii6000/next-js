@@ -1,0 +1,318 @@
+[
+  {
+    "id": 1,
+    "firstname": "Сод-Од",
+    "lastname": "IDK GANG",
+    "job": "Захирал",
+    "alive": true,
+    "age": 35,
+    "email": "sod-od.idkgang@gmail.com",
+    "image": "https://api.dicebear.com/7.x/adventurer/svg?seed=%D0%A1%D0%BE%D0%B4-%D0%9E%D0%B41",
+    "password": "sod-od123",
+    "Height": 180,
+    "items": [
+      { "id": 28, "name": "Glasses", "image": "https://cdn-icons-png.flaticon.com/512/3183/3183304.png" },
+      { "id": 29, "name": "Notebook", "image": "https://cdn-icons-png.flaticon.com/512/2541/2541979.png" }
+    ]
+  },
+  {
+    "id": 2,
+    "firstname": "Тамир",
+    "lastname": "IDK GANG",
+    "job": "Менежер",
+    "alive": true,
+    "age": 42,
+    "email": "tamir.idkgang@gmail.com",
+    "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=%D0%A2%D0%B0%D0%BC%D0%B8%D1%802",
+    "Height": 180,
+    "items": [
+      { "id": 30, "name": "Glasses", "image": "https://cdn-icons-png.flaticon.com/512/3183/3183304.png" },
+      { "id": 31, "name": "puuz", "image": "https://cdn-icons-png.flaticon.com/512/3595/3595455.png" }
+    ]
+  },
+  {
+    "id": 3,
+    "firstname": "Ганхүлэг",
+    "lastname": "Idk",
+    "job": "Hulegee bro",
+    "alive": true,
+    "age": 29,
+    "email": "gankhuleg.purevdorj@gmail.com",
+    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=%D0%93%D0%B0%D0%BD%D1%85%D2%AF%D0%BB%D1%8D%D0%B33",
+    "Height": 180,
+    "items": [
+      { "id": 32, "name": "Muscle", "image": "https://cdn-icons-png.flaticon.com/512/2548/2548530.png" },
+      { "id": 33, "name": "pen", "image": "https://cdn-icons-png.flaticon.com/512/1046/1046275.png" }
+    ]
+  },
+  {
+    "id": 4,
+    "firstname": "Мэнд-Амар",
+    "lastname": "IDK",
+    "job": "Teacher",
+    "alive": true,
+    "age": 47,
+    "email": "mend-amar.idk@gmail.com",
+    "image": "https://api.dicebear.com/7.x/fun-emoji/svg?seed=%D0%9C%D1%8D%D0%BD%D0%B4-%D0%90%D0%BC%D0%B0%D1%804",
+    "Height": 180,
+    "items": [
+      { "id": 33, "name": "Glasses", "image": "https://cdn-icons-png.flaticon.com/512/3183/3183304.png" },
+      { "id": 34, "name": "Notebook", "image": "https://cdn-icons-png.flaticon.com/512/2541/2541979.png" }
+    ]
+  },
+  {
+    "id": 5,
+    "firstname": "Намуунаа",
+    "lastname": "IDK GANG",
+    "job": "Нийгмийн ажилтан",
+    "alive": true,
+    "age": 31,
+    "email": "namuunaa.idkgang@gmail.com",
+    "image": "https://api.dicebear.com/7.x/lorelei/svg?seed=%D0%9D%D0%B0%D0%BC%D1%83%D1%83%D0%BD%D0%B0%D0%B05",
+    "Height": 180,
+    "items": [
+      { "id": 35, "name": "Glasses", "image": "https://cdn-icons-png.flaticon.com/512/3183/3183304.png" },
+      { "id": 36, "name": "puuz", "image": "https://cdn-icons-png.flaticon.com/512/3595/3595455.png" }
+    ]
+  },
+  {
+    "id": 6,
+    "firstname": "Гэрэлтуяа",
+    "lastname": "IDK GANG",
+    "job": "сэтгэлзүйч",
+    "alive": true,
+    "age": 38,
+    "email": "gereltuya.idkgang@gmail.com",
+    "image": "https://api.dicebear.com/7.x/notionists/svg?seed=%D0%93%D1%8D%D1%80%D1%8D%D0%BB%D1%82%D1%83%D1%8F%D0%B06",
+    "Height": 180,
+    "items": [
+      { "id": 37, "name": "Muscle", "image": "https://cdn-icons-png.flaticon.com/512/2548/2548530.png" },
+      { "id": 38, "name": "pen", "image": "https://cdn-icons-png.flaticon.com/512/1046/1046275.png" }
+    ]
+  },
+  {
+    "id": 7,
+    "firstname": "Жавзандулам",
+    "lastname": "IDK",
+    "job": "Монгол хэлний багш",
+    "alive": true,
+    "age": 54,
+    "email": "javzandulam.idk@gmail.com",
+    "image": "https://api.dicebear.com/7.x/open-peeps/svg?seed=%D0%96%D0%B0%D0%B2%D0%B7%D0%B0%D0%BD%D0%B4%D1%83%D0%BB%D0%B0%D0%BC7",
+    "Height": 180,
+    "items": [
+      { "id": 39, "name": "Glasses", "image": "https://cdn-icons-png.flaticon.com/512/3183/3183304.png" },
+      { "id": 40, "name": "Notebook", "image": "https://cdn-icons-png.flaticon.com/512/2541/2541979.png" }
+    ]
+  },
+  {
+    "id": 8,
+    "firstname": "Адъяахүү",
+    "lastname": "IDK GANG",
+    "job": "Матийн багш",
+    "alive": true,
+    "age": 26,
+    "email": "adyaakhuu.idkgang@gmail.com",
+    "image": "https://api.dicebear.com/7.x/personas/svg?seed=%D0%90%D0%B4%D1%8A%D1%8F%D0%B0%D1%85%D2%AF%D2%AF8",
+    "Height": 180,
+    "items": [
+      { "id": 41, "name": "Glasses", "image": "https://cdn-icons-png.flaticon.com/512/3183/3183304.png" },
+      { "id": 42, "name": "Notebook", "image": "https://cdn-icons-png.flaticon.com/512/2541/2541979.png" }
+    ]
+  },
+  {
+    "id": 9,
+    "firstname": "Оюунтуяа",
+    "lastname": "IDK GANG",
+    "job": "Матийн багш",
+    "alive": true,
+    "age": 44,
+    "email": "oyuuntuya.idkgang@gmail.com",
+    "image": "https://api.dicebear.com/7.x/adventurer/svg?seed=%D0%9E%D1%8E%D1%83%D0%BD%D1%82%D1%83%D1%8F%D0%B09",
+    "Height": 180,
+    "items": [
+      { "id": 43, "name": "Glasses", "image": "https://cdn-icons-png.flaticon.com/512/3183/3183304.png" },
+      { "id": 44, "name": "puuz", "image": "https://cdn-icons-png.flaticon.com/512/3595/3595455.png" }
+    ]
+  },
+  {
+    "id": 10,
+    "firstname": "Рэнцэнхорлоо",
+    "lastname": "IDk",
+    "job": "Матийн багш",
+    "alive": true,
+    "age": 36,
+    "email": "rentsenkhorloo.idk@gmail.com",
+    "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=%D0%A0%D1%8D%D0%BD%D1%86%D1%8D%D0%BD%D1%85%D0%BE%D1%80%D0%BB%D0%BE%D0%BE10",
+    "Height": 180,
+    "items": [
+      { "id": 45, "name": "Muscle", "image": "https://cdn-icons-png.flaticon.com/512/2548/2548530.png" },
+      { "id": 46, "name": "pen", "image": "https://cdn-icons-png.flaticon.com/512/1046/1046275.png" }
+    ]
+  },
+  {
+    "id": 11,
+    "firstname": "Батхишиг",
+    "lastname": "IDK",
+    "job": "Химийн багш",
+    "alive": true,
+    "age": 51,
+    "email": "batkhishig.idk@gmail.com",
+    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=%D0%91%D0%B0%D1%82%D1%85%D0%B8%D1%88%D0%B8%D0%B311",
+    "Height": 180,
+    "items": [
+      { "id": 47, "name": "Glasses", "image": "https://cdn-icons-png.flaticon.com/512/3183/3183304.png" },
+      { "id": 48, "name": "Notebook", "image": "https://cdn-icons-png.flaticon.com/512/2541/2541979.png" }
+    ]
+  },
+  {
+    "id": 12,
+    "firstname": "Тэгшдэлгэр",
+    "lastname": "IDK GANG",
+    "job": "Teacher",
+    "alive": true,
+    "age": 33,
+    "email": "tegshdelger.idkgang@gmail.com",
+    "image": "https://api.dicebear.com/7.x/fun-emoji/svg?seed=%D0%A2%D1%8D%D0%B3%D1%88%D0%B4%D1%8D%D0%BB%D0%B3%D1%8D%D1%8012",
+    "Height": 180,
+    "items": [
+      { "id": 49, "name": "Glasses", "image": "https://cdn-icons-png.flaticon.com/512/3183/3183304.png" },
+      { "id": 50, "name": "puuz", "image": "https://cdn-icons-png.flaticon.com/512/3595/3595455.png" }
+    ]
+  },
+  {
+    "id": 13,
+    "firstname": "Дөл",
+    "lastname": "IDK GANG",
+    "job": "Англи хэлний багш",
+    "alive": true,
+    "age": 28,
+    "email": "dol.idkgang@gmail.com",
+    "image": "https://api.dicebear.com/7.x/lorelei/svg?seed=%D0%94%D3%A913",
+    "Height": 180,
+    "items": [
+      { "id": 51, "name": "Muscle", "image": "https://cdn-icons-png.flaticon.com/512/2548/2548530.png" },
+      { "id": 52, "name": "pen", "image": "https://cdn-icons-png.flaticon.com/512/1046/1046275.png" }
+    ]
+  },
+  {
+    "id": 14,
+    "firstname": "Lavenia",
+    "lastname": "IDK",
+    "job": "Англи хэлний багш",
+    "alive": true,
+    "age": 40,
+    "email": "lavenia.idk@gmail.com",
+    "image": "https://api.dicebear.com/7.x/notionists/svg?seed=Lavenia14",
+    "Height": 180,
+    "items": [
+      { "id": 53, "name": "Glasses", "image": "https://cdn-icons-png.flaticon.com/512/3183/3183304.png" },
+      { "id": 54, "name": "Notebook", "image": "https://cdn-icons-png.flaticon.com/512/2541/2541979.png" }
+    ]
+  },
+  {
+    "id": 15,
+    "firstname": "Лхагважаргал",
+    "lastname": "IDK GANG",
+    "job": "Англи хэлний багш",
+    "alive": true,
+    "age": 46,
+    "email": "lkhagvazhargal.idkgang@gmail.com",
+    "image": "https://api.dicebear.com/7.x/open-peeps/svg?seed=%D0%9B%D1%85%D0%B0%D0%B3%D0%B2%D0%B0%D0%B6%D0%B0%D1%80%D0%B3%D0%B0%D0%BB15",
+    "Height": 180,
+    "items": [
+      { "id": 55, "name": "Glasses", "image": "https://cdn-icons-png.flaticon.com/512/3183/3183304.png" },
+      { "id": 56, "name": "Notebook", "image": "https://cdn-icons-png.flaticon.com/512/2541/2541979.png" }
+    ]
+  },
+  {
+    "id": 16,
+    "firstname": "Чанцалням",
+    "lastname": "IDK GANG",
+    "job": "Нийгмийн багш",
+    "alive": true,
+    "age": 39,
+    "email": "chantsalnyam.idkgang@gmail.com",
+    "image": "https://api.dicebear.com/7.x/personas/svg?seed=%D0%A7%D0%B0%D0%BD%D1%86%D0%B0%D0%BB%D0%BD%D1%8F%D0%BC16",
+    "Height": 180,
+    "items": [
+      { "id": 57, "name": "Glasses", "image": "https://cdn-icons-png.flaticon.com/512/3183/3183304.png" },
+      { "id": 58, "name": "puuz", "image": "https://cdn-icons-png.flaticon.com/512/3595/3595455.png" }
+    ]
+  },
+  {
+    "id": 17,
+    "firstname": "Азжаргал",
+    "lastname": "idk",
+    "job": "Түүхийн багш",
+    "alive": true,
+    "age": 25,
+    "email": "azjargal.idk@gmail.com",
+    "image": "https://api.dicebear.com/7.x/adventurer/svg?seed=%D0%90%D0%B7%D0%B6%D0%B0%D1%80%D0%B3%D0%B0%D0%BB17",
+    "Height": 180,
+    "items": [
+      { "id": 59, "name": "Muscle", "image": "https://cdn-icons-png.flaticon.com/512/2548/2548530.png" },
+      { "id": 60, "name": "pen", "image": "https://cdn-icons-png.flaticon.com/512/1046/1046275.png" }
+    ]
+  },
+  {
+    "id": 18,
+    "firstname": "Тэмүжин",
+    "lastname": "IDK",
+    "job": "IT багш",
+    "alive": true,
+    "age": 57,
+    "email": "temujin.idk@gmail.com",
+    "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=%D0%A2%D1%8D%D0%BC%D2%AF%D0%B6%D0%B8%D0%BD18",
+    "Height": 180,
+    "items": [
+      { "id": 61, "name": "Glasses", "image": "https://cdn-icons-png.flaticon.com/512/3183/3183304.png" },
+      { "id": 62, "name": "Notebook", "image": "https://cdn-icons-png.flaticon.com/512/2541/2541979.png" }
+    ]
+  },
+  {
+    "id": 19,
+    "firstname": "Өсөхбаатар",
+    "lastname": "IDK GANG",
+    "job": "IT багш",
+    "alive": true,
+    "age": 43,
+    "email": "osokhbaatar.idkgang@gmail.com",
+    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=%D3%A9%D1%81%D3%A9%D1%85%D0%B1%D0%B0%D0%B0%D1%82%D0%B0%D1%8019",
+    "Height": 180,
+    "items": [
+      { "id": 63, "name": "Glasses", "image": "https://cdn-icons-png.flaticon.com/512/3183/3183304.png" },
+      { "id": 64, "name": "puuz", "image": "https://cdn-icons-png.flaticon.com/512/3595/3595455.png" }
+    ]
+  },
+  {
+    "id": 20,
+    "firstname": "Мөнх-Оргил",
+    "lastname": "IDK GANG",
+    "job": "IT багш",
+    "alive": true,
+    "age": 32,
+    "email": "munkh-orgil.idkgang@gmail.com",
+    "image": "https://api.dicebear.com/7.x/fun-emoji/svg?seed=%D0%9C%D3%A9%D0%BD%D1%85-%D0%9E%D1%80%D0%B3%D0%B8%D0%BB20",
+    "Height": 180,
+    "items": [
+      { "id": 65, "name": "Muscle", "image": "https://cdn-icons-png.flaticon.com/512/2548/2548530.png" },
+      { "id": 66, "name": "pen", "image": "https://cdn-icons-png.flaticon.com/512/1046/1046275.png" }
+    ]
+  },
+  {
+    "id": 22,
+    "firstname": "Бархасболд",
+    "lastname": "IDK GANG",
+    "job": "IT багш",
+    "alive": true,
+    "age": 27,
+    "email": "barkhasbold.idkgang@gmail.com",
+    "image": "https://api.dicebear.com/7.x/lorelei/svg?seed=%D0%91%D0%B0%D1%80%D1%85%D0%B0%D1%81%D0%B1%D0%BE%D0%BB%D0%B422",
+    "Height": 180,
+    "items": [
+      { "id": 69, "name": "Glasses", "image": "https://cdn-icons-png.flaticon.com/512/3183/3183304.png" },
+      { "id": 70, "name": "Notebook", "image": "https://cdn-icons-png.flaticon.com/512/2541/2541979.png" }
+    ]
+  }
+]
