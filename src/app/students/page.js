@@ -1,5 +1,5 @@
 import Link from "next/link";
-import data from "../utils/data.json";
+import data from "../../utils/data.json";
 
 export default function Homepage() {
   return (

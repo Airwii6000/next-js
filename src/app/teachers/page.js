@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import data from "../teacherjson/data.json";
+import data from "../../utils/teacher.json";
 
 export default function Homepage() {
   const [query, setQuery] = useState("");
