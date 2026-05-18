@@ -1,11 +1,51 @@
+"use client";
+
+import { useState } from "react";
 import Link from "next/link";
 import data from "../../utils/data.json";
 
 export default function Homepage() {
+  const [query, setQuery] = useState("");
+
+  const filtered = data.filter((student) => {
+    const full = `${student.firstname} ${student.lastname}`.toLowerCase();
+    return full.includes(query.toLowerCase());
+  });
+
   return (
     <div className="min-h-screen bg-stone-100 px-6 py-10">
+
+      {/* Search Bar */}
+      <div className="max-w-md mx-auto mb-8 flex gap-2">
+        <input
+          type="text"
+          placeholder="Search by name..."
+          value={query}
+          onChange={(e) => setQuery(e.target.value)}
+          className="flex-1 px-4 py-2.5 rounded-xl border border-stone-200 bg-white text-sm text-stone-700 shadow-sm placeholder-stone-400 focus:outline-none focus:ring-2 focus:ring-stone-300"
+        />
+        {query && (
+          <button
+            onClick={() => setQuery("")}
+            className="px-4 py-2.5 rounded-xl bg-stone-200 text-stone-600 text-sm hover:bg-stone-300 transition-colors"
+          >
+            Clear
+          </button>
+        )}
+      </div>
+
+      {/* No results */}
+      {filtered.length === 0 && (
+        <div className="flex flex-col items-center justify-center mt-20 gap-2 text-stone-400">
+          <span className="text-4xl">🔍</span>
+          <p className="text-base font-medium">No one found</p>
+          <p className="text-sm">Try searching with a different name</p>
+        </div>
+      )}
+
+      {/* Grid */}
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
-        {data.map((student) => (
+        {filtered.map((student) => (
           <div
             key={student.id}
             className="bg-white rounded-2xl border border-stone-200 shadow-sm p-4 flex flex-col gap-3"
@@ -42,7 +82,7 @@ export default function Homepage() {
 
             {/* Items */}
             <div className="flex gap-2 pt-2 border-t border-stone-100">
-              {student.items.map((item) => (
+              {(student.items ?? []).map((item) => (
                 <div key={item.id} className="flex flex-col items-center gap-1">
                   <div className="w-10 h-10 rounded-lg overflow-hidden bg-stone-100">
                     <img
@@ -55,7 +95,6 @@ export default function Homepage() {
                 </div>
               ))}
             </div>
-
 
             <span className="text-[10px] text-stone-300">#{student.id}</span>
           </div>
