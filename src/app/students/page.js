@@ -17,13 +17,13 @@ export default function Homepage() {
 
       {/* Search Bar */}
       <div className="max-w-md mx-auto mb-8 flex gap-2">
-        <input
-          type="text"
-          placeholder="Search by name..."
-          value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          className="flex-1 px-4 py-2.5 rounded-xl border border-stone-200 bg-white text-sm text-stone-700 shadow-sm placeholder-stone-400 focus:outline-none focus:ring-2 focus:ring-stone-300"
-        />
+      <input
+        type="text"
+        placeholder="Search"
+        value={query}
+        onChange={(e) => setQuery(e.target.value)}
+        className="mb-4 px-3 py-2 border rounded-md w-full"
+      />
         {query && (
           <button
             onClick={() => setQuery("")}
